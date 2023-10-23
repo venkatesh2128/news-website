@@ -1,0 +1,24 @@
+[
+    {
+        "heading" : "Flipkart",
+        "linkofimage" : "https://images.hindustantimes.com/tech/img/2022/09/14/960x540/Untitled_design_(24)_1663156678098_1663156695194_1663156695194.jpg",
+        "text" : "Iphone 13!!"
+    },
+    {
+        "heading" : "Byjus",
+        "linkofimage" : "https://cdn1.byjus.com/byjusweb/img/landing-pages/btla-home/banner-mobile-left-image.png",
+        "text" : "We love the BYJU'S way of learning"
+    },
+
+    {
+        "title" : "Myntra",
+        "linkofimage" : "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2022-09/BFF-_2022_image_for_PR.jpg",
+        "text" : "Myntra Sale"
+    },
+    {
+        "heading" : "Cred",
+        "linkofimage" : "https://www.passionateinmarketing.com/wp-content/uploads/2020/12/cred-rentpay-review.jpg",
+        "text" : "CRED Pay your rent"
+    }
+
+]
